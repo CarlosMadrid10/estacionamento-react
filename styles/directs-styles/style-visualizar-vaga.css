@@ -1,0 +1,47 @@
+@import url("../partials/format.css");
+@import url("../partials/navbar.css");
+@import url("../partials/table.css");
+@import url("../partials/section-container.css");
+
+
+
+
+
+@media (min-width:320px) and (max-width:767px){
+    h2{
+        margin: 1rem 0;
+        font-size: 1.3em;
+    }
+    
+    section{
+        margin-bottom: 2rem;
+        width: 100%;
+        margin: 0 0.5rem;
+    }
+    th, td{
+        font-size: 0.8em;
+    }
+
+    #editar{
+        width: 65px;
+    }
+    #desocupar{
+        width: 95px;
+    }
+
+
+}
+
+
+@media (min-width:768px){
+    h2{
+        margin: 1rem 0;
+    }
+    
+    section{
+        margin-bottom: 2rem;
+    }
+    button{
+        width: 25% !important;
+    }
+}

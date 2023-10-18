@@ -1,0 +1,16 @@
+button, .acoes{
+    width: 100%;
+    text-align: center;
+    outline: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.acoes-styles{
+    background-color: rgba(38, 87, 223, 0.356);
+}
+
+.acoes-styles:hover{
+    background-color:  rgba(38, 87, 223, 0.199);
+}

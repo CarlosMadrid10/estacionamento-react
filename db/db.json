@@ -1,0 +1,86 @@
+[
+ {
+  "numeroEstacionamento": 1,
+  "nomeProprietario": "José",
+  "numeroApto": 12,
+  "blocoApto": "B",
+  "modeloVeiculo": "Monza",
+  "corVeiculo": "Vinho",
+  "placa": "AXNV124",
+  "status": "Indisponível"
+ },
+ {
+  "numeroEstacionamento": 2,
+  "nomeProprietario": "Pedro",
+  "numeroApto": 2,
+  "blocoApto": "A",
+  "modeloVeiculo": "Celta",
+  "corVeiculo": "Grafite",
+  "placa": "UJDH765",
+  "status": "Indisponível"
+ },
+ {
+  "numeroEstacionamento": 3,
+  "nomeProprietario": "João",
+  "numeroApto": 4,
+  "blocoApto": "A",
+  "modeloVeiculo": "Fusca",
+  "corVeiculo": "Bege",
+  "placa": "OLDH524",
+  "status": "Indisponível"
+ },
+ {
+  "numeroEstacionamento": 4,
+  "nomeProprietario": "Lucas",
+  "numeroApto": 1,
+  "blocoApto": "A",
+  "modeloVeiculo": "Gol",
+  "corVeiculo": "Vermelho",
+  "placa": "NCGD684",
+  "status": "Indisponível"
+ },
+ {
+  "numeroEstacionamento": 5,
+  "nomeProprietario": "Roberto",
+  "numeroApto": 3,
+  "blocoApto": "A",
+  "modeloVeiculo": "Corsa",
+  "corVeiculo": "Preto",
+  "placa": "MSDA325",
+  "status": "Indisponível"
+ },
+ {
+  "numeroEstacionamento": 6,
+  "nomeProprietario": "Leoncio",
+  "numeroApto": 7,
+  "blocoApto": "B",
+  "modeloVeiculo": "Belina",
+  "corVeiculo": "Pérola",
+  "placa": "PAQW127",
+  "status": "Indisponível"
+ },
+ {
+  "numeroEstacionamento": 7,
+  "status": "Disponível"
+ },
+ {
+  "numeroEstacionamento": 8,
+  "status": "Disponível"
+ },
+ {
+  "numeroEstacionamento": 9,
+  "status": "Disponível"
+ },
+ {
+  "numeroEstacionamento": 10,
+  "status": "Disponível"
+ },
+ {
+  "numeroEstacionamento": 11,
+  "status": "Disponível"
+ },
+ {
+  "numeroEstacionamento": 12,
+  "status": "Disponível"
+ }
+]

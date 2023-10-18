@@ -1,0 +1,31 @@
+@import url("../partials/section-container.css");
+@import url("../partials/navbar.css");
+@import url("../partials/table.css");
+@import url("../partials/format.css");
+@import url("../partials/buttons-selects.css");
+
+.h2, .select{
+    width: auto;
+    text-align: center;
+}
+
+.select{
+    float: right;
+    margin-bottom: 1rem;
+}
+
+.acoes-styles > button{
+    width: 100% !important;
+}
+
+
+
+@media (width < 375px) {
+    section{
+        margin: 1rem 0.3rem;
+    }
+    .select{
+        float: left;
+        margin: 1rem 0;
+    }
+}

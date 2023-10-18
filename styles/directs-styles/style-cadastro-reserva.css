@@ -1,0 +1,91 @@
+@import url("../partials/format.css");
+@import url("../partials/navbar.css");
+@import url("../partials/section-container.css");
+
+
+
+@media (width > 767px){
+
+    .campo-capt-infos > label, .campo-select-infos > label{
+        display: inline-block;
+        width: 20rem;
+        margin: 0.4rem 0;
+        margin-left: 4rem;
+    }
+    
+    .campo-capt-infos > input, .campo-select-infos > select{
+        width: 12rem;
+        padding: 0.12rem;
+    }
+    
+    fieldset{
+        width: 40rem;
+        margin: 0 auto;
+        padding: 1rem;
+        border: 1px solid #dddddd;
+        box-shadow: 0px 2px 4px 0px #0000003f;
+    }
+    
+    .campo-submit-infos{
+        text-align: center;
+    }
+    
+    .campo-submit-infos > button{
+        text-align: center;
+        margin: 0.4rem 0;
+        padding: 0.5rem;
+    }
+    
+    h2{
+        margin: 1rem 0;
+        text-align: center;
+    }
+    
+
+
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+
+    .campo-capt-infos , .campo-select-infos{
+        margin: 1rem 0;
+
+    }
+    
+    .campo-capt-infos > input, .campo-select-infos > select{
+        width: 100%;
+        padding: 0.20rem 0;
+    }
+    
+    fieldset{
+        width: 18rem;
+        margin: 0 auto;
+        padding: 1rem;
+        border: 1px solid #dddddd;
+        box-shadow: 0px 2px 4px 0px #0000003f;
+    }
+    
+    h2{
+        margin: 1rem 0;
+        text-align: center;
+    }
+    
+    .campo-submit-infos{
+        text-align: center;
+    }
+    
+    .campo-submit-infos > button{
+        text-align: center;
+        margin: 0.4rem 0;
+        padding: 0.5rem;
+    }
+
+    article > section{
+        margin: 0
+    }
+
+
+}
+
+
+
